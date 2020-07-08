@@ -8,6 +8,7 @@
       <list>
         <option value="$PROJECT_DIR$/photoapp-eureka-server/pom.xml" />
         <option value="$PROJECT_DIR$/users-service/pom.xml" />
+        <option value="$PROJECT_DIR$/apigateway/pom.xml" />
       </list>
     </option>
   </component>
