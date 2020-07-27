@@ -12,4 +12,5 @@ public interface UsersService extends UserDetailsService {
 
     public UserDetailsDTO createUsers(UserDetailsDTO userDetailsDTO);
     public UserDetailsDTO getUserDetailsByEmail(String email);
+    public UserDetailsDTO getUserDetailsByUserId(String userId);
 }
